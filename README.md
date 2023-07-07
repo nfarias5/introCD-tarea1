@@ -1,10 +1,16 @@
-# Introducción a la Ciencia de Datos 2023 - Tarea 1 - Grupo 8
-Este repositorio contiene los archivos correspondientes a la Tarea 1 del curso de Introducción a la Ciencia de Datos del año 2023.
-- **Informe_tarea1_grupo8.pdf**: Informe sobre el trabajo realizado.
-- **shakespeare_propuesta_grupo8.ipynb**: Jupyter notebook con el código del trabajo realizado.
-- **requirements.txt**: Archivo con las dependencias requeridas para ejecutar el notebook.
+# Introducción a la Ciencia de Datos 2023 - Tarea - Grupo 8
+Este repositorio contiene los archivos correspondientes a las tareas del curso de Introducción a la Ciencia de Datos del año 2023.
 
-## Instrucciones para ejecutar el notebook
+## Tarea 2
+- **Informe_tarea2_grupo8.pdf**: Informe sobre el trabajo realizado en la Tarea 2.
+- **shakespeare_tarea2_grupo8.ipynb**: Jupyter notebook con el código del trabajo realizado en la Tarea 2.
+
+## Tarea 1
+- **Informe_tarea1_grupo8.pdf**: Informe sobre el trabajo realizado en la Tarea 1.
+- **shakespeare_propuesta_grupo8.ipynb**: Jupyter notebook con el código del trabajo realizado en la Tarea 1.
+- **requirements.txt**: Archivo con las dependencias requeridas para ejecutar el notebook shakespeare_propuesta_grupo8.ipynb.
+
+### Instrucciones para ejecutar el notebook
 Clonar el repositorio ejecutando el siguiente comando:
 ```
 git clone https://github.com/nfarias5/introCD-tarea1.git
