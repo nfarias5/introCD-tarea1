@@ -1,6 +1,9 @@
 # Introducción a la Ciencia de Datos 2023 - Tarea - Grupo 8
 Este repositorio contiene los archivos correspondientes a las tareas del curso de Introducción a la Ciencia de Datos del año 2023.
 
+## Tarea final
+- **Informe_tarea_final_grupo8.pdf**: Informe correspondiente a la Tarea final.
+
 ## Tarea 2
 - **Informe_tarea2_grupo8.pdf**: Informe sobre el trabajo realizado en la Tarea 2.
 - **shakespeare_tarea2_grupo8.ipynb**: Jupyter notebook con el código del trabajo realizado en la Tarea 2.
